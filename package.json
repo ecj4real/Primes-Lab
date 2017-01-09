@@ -1,0 +1,25 @@
+{
+  "name": "prime-lab",
+  "version": "1.0.0",
+  "description": "Produces list of Prime Numbers",
+  "main": "app/primelist.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecj4real/Primes-Lab.git"
+  },
+  "author": "Emegbue Chukwudi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://https://github.com/ecj4real/Primes-Lab/issues"
+  },
+  "homepage": "https://github.com/ecj4real/Primes-Lab#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}

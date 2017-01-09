@@ -1,0 +1,2 @@
+# Prime Lab
+Write a getPrimes function that takes an integer value n as argument and generates prime numbers from 0 to n with asymptotic analysis. The generated prime numbers should be in an array. Your logic should be as efficient as possible (with minimal iterations).
